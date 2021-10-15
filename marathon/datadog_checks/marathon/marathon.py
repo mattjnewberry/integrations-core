@@ -9,7 +9,6 @@ from six.moves.urllib.parse import urljoin
 
 from datadog_checks.base import AgentCheck
 
-
 class Marathon(AgentCheck):
 
     DEFAULT_TIMEOUT = 5
