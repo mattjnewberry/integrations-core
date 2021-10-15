@@ -9,7 +9,7 @@ files:
           - template: init_config/default
       - template: instances
         options:
-          - name: url
+          - name: ur
             description: The API endpoint of your Marathon master.
             required: True
             value:
