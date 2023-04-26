@@ -373,6 +373,7 @@ ISTIOD_METRICS = {
     'pilot_push_triggers': 'pilot.push.triggers',
     'pilot_xds_eds_all_locality_endpoints': 'pilot.xds.eds_all_locality_endpoints',
     'pilot_xds_push_time': 'pilot.xds.push.time',
+    'pilot_debounce_time': 'pilot.debounce.time',
     'process_virtual_memory_max_bytes': 'process.virtual_memory_max_bytes',
     'sidecar_injection_requests_total': 'sidecar_injection.requests_total',
     'sidecar_injection_success_total': 'sidecar_injection.success_total',
